@@ -28,6 +28,10 @@ export HUGGING_FACE_API_TOKEN=your_hugging_face_api_token
 
 Run the application:
 
+```
+go run main.go -text "Your text to summarize"
+```
+
 Replace "Your text to summarize" with the actual text you want to summarize.
 
 ## Example
